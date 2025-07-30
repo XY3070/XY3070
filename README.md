@@ -1,6 +1,8 @@
 ## Hey, XY is here 👋
 
----  
+- I am an undergraduate at The Chinese University of Hong Kong, Shenzhen (CUHKSZ), majoring in bioinformatics.
+- I am currently learning at the Warshel Institute of Computational Biology.
+- I am interested in genomics and genetics, focusing on auto-immune diseases.
 
 It's heard that people always want to have their own homepages. _Creating a repo with their own names_ and _introducing themselves_ in `README.md` is a wise choice. 
 
