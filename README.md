@@ -6,6 +6,8 @@
 
 It's heard that people always want to have their own homepages. _Creating a repo with their own names_ and _introducing themselves_ in `README.md` is a wise choice. 
 
+ update
+
 **Question:** Why the commit on non-main branch won't be recorded in the commit heatmap?
 
 <!--
