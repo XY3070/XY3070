@@ -1,5 +1,6 @@
 ## Hey, XY is here 👋
 
+- A vibe coder (definitely) 
 - I am an undergraduate at The Chinese University of Hong Kong, Shenzhen ([CUHKSZ](https://www.cuhk.edu.cn/en)), majoring in bioinformatics.
 - I am currently learning at the [Warshel Institute of Computational Biology](https://warshel.cuhk.edu.cn/).
 - I am interested in genomics and genetics, focusing on auto-immune diseases.
