@@ -5,8 +5,6 @@
 - I am currently learning at the [Warshel Institute of Computational Biology](https://warshel.cuhk.edu.cn/).
 - I am interested in genomics and genetics, focusing on auto-immune diseases.
 
-It's heard that people always want to have their own homepages. _Creating a repo with their own names_ and _introducing themselves_ in `README.md` is a wise choice. 
-
 <!--
 **XY3070/XY3070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
