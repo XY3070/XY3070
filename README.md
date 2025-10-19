@@ -1,4 +1,4 @@
-## Hey, XY is here 👋
+## Salut, XY est ici 👋
 
 - A vibe coder (definitely) 
 - I am an undergraduate at The Chinese University of Hong Kong, Shenzhen ([CUHKSZ](https://www.cuhk.edu.cn/en)), majoring in bioinformatics.
